@@ -4,5 +4,5 @@ import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: '/audiophile-website/', // أو تخليه './' علشان يكون مسار نسبي
+  base: '/audiophile-website/', 
 })
