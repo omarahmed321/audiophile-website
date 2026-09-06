@@ -2,7 +2,7 @@
 
 **Live Demo:** [https://omarahmed321.github.io/audiophile-website/](https://omarahmed321.github.io/audiophile-website/)
 
-A responsive e-commerce showcase for high-end audio gear, built as an implementation of the Audiophile Frontend Mentor challenge.
+A responsive e-commerce showcase for high-end audio gear, built as an implementation of the Audiophile 
 
 ![React](https://img.shields.io/badge/React-19.2-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-4.2-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
