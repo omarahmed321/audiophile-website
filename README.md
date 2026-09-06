@@ -1,4 +1,4 @@
-# Audiophile Website (Frontend Mentor Challenge)
+# Audiophile Website 
 
 **Live Demo:** [https://omarahmed321.github.io/audiophile-website/](https://omarahmed321.github.io/audiophile-website/)
 
