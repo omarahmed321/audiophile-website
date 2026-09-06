@@ -1,6 +1,6 @@
 # Audiophile Website (Frontend Mentor Challenge)
 
-[Live Demo](https://omarahmed321.github.io/audiophile-website/)
+**Live Demo:** [https://omarahmed321.github.io/audiophile-website/](https://omarahmed321.github.io/audiophile-website/)
 
 A responsive e-commerce showcase for high-end audio gear, built as an implementation of the Audiophile Frontend Mentor challenge.
 
