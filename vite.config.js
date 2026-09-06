@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  plugins: [react(),tailwindcss()],
-  base: '/tailwind-test-figma/'
+  plugins: [react(), tailwindcss()],
+  base: '/audiophile-website/', // أو تخليه './' علشان يكون مسار نسبي
 })
